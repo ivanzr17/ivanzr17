@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivanzr17</h1>
 # 💫 About Me:
 
-🌱 I’m currently learning MERN Stack<br>🍼Newbie full stack developer
+🌱 I’m currently learning MERN Stack<br>🖥️Full stack developer
 
 
 ## 🌐 Socials:
